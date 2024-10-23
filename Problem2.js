@@ -21,7 +21,6 @@ function findLongestMethod1(word) {
     return longestWord
 }
 
-
 // Method 2: // Recursive
 function findLongestMethod2(word) {
     const arrOfWord = word.split(' ');
